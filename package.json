@@ -1,0 +1,23 @@
+{
+  "name": "nodejswip",
+  "version": "1.0.0",
+  "description": "my first workshop",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashnair27/nodejs-workshop.git"
+  },
+  "author": "abhilash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashnair27/nodejs-workshop/issues"
+  },
+  "homepage": "https://github.com/abhilashnair27/nodejs-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
